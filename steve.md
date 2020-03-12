@@ -1,5 +1,5 @@
 <!-- TITLE: Steve -->
-<!-- SUBTITLE: A quick summary of Steve [Google](www.google.ca) -->
+<!-- SUBTITLE: A quick summary of Steve [Google](https://www.google.ca) -->
 
 # Header
 
