@@ -4,6 +4,7 @@
 # Header
 
 [External Link Text](https://www.google.com/)
+[Google](https://www.google.ca)
 
 
 
